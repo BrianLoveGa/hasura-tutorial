@@ -25,6 +25,10 @@ Made by Brian Loveless [Portfolio Site](https://brianlovega.github.io/portfolio-
 
 *****
 
+back to intro and hasura pitch
+
+*****
+
 # What is GraphQL
 
 Well, according to its documentation, "GraphQL is a query language for APIs." Traditionally, with a REST API, you have all sorts of endpoints where you get access to different data or can change the data in some way. That can become pretty bulky pretty fast, and can also become a bottleneck if you're working with separate frontend and backend teams. GraphQL becomes really helpful as our apps evolve over time and need to display different data.
