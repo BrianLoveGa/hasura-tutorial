@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hasura-tutorial/static/css/main.06c2128c.chunk.css",
-    "main.js": "/hasura-tutorial/static/js/main.aad92ae5.chunk.js",
-    "main.js.map": "/hasura-tutorial/static/js/main.aad92ae5.chunk.js.map",
+    "main.js": "/hasura-tutorial/static/js/main.fe0af5de.chunk.js",
+    "main.js.map": "/hasura-tutorial/static/js/main.fe0af5de.chunk.js.map",
     "runtime-main.js": "/hasura-tutorial/static/js/runtime-main.b0f3db42.js",
     "runtime-main.js.map": "/hasura-tutorial/static/js/runtime-main.b0f3db42.js.map",
     "static/js/2.ec726b24.chunk.js": "/hasura-tutorial/static/js/2.ec726b24.chunk.js",
     "static/js/2.ec726b24.chunk.js.map": "/hasura-tutorial/static/js/2.ec726b24.chunk.js.map",
     "index.html": "/hasura-tutorial/index.html",
-    "precache-manifest.cdd21175d8a3539738939e259cdf2698.js": "/hasura-tutorial/precache-manifest.cdd21175d8a3539738939e259cdf2698.js",
+    "precache-manifest.abd670a5893428eac86ab4ad2ea5e36a.js": "/hasura-tutorial/precache-manifest.abd670a5893428eac86ab4ad2ea5e36a.js",
     "service-worker.js": "/hasura-tutorial/service-worker.js",
     "static/css/main.06c2128c.chunk.css.map": "/hasura-tutorial/static/css/main.06c2128c.chunk.css.map",
     "static/js/2.ec726b24.chunk.js.LICENSE.txt": "/hasura-tutorial/static/js/2.ec726b24.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b0f3db42.js",
     "static/js/2.ec726b24.chunk.js",
     "static/css/main.06c2128c.chunk.css",
-    "static/js/main.aad92ae5.chunk.js"
+    "static/js/main.fe0af5de.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6bb8a80dcf9a4fbfe8bd78ea21a4f7c",
+    "revision": "e2bf3c551ecba9e552838809e70c390d",
     "url": "/hasura-tutorial/index.html"
   },
   {
-    "revision": "c14a6cab5a2bdb1adae1",
+    "revision": "784a5bf3f7e749d7f33e",
     "url": "/hasura-tutorial/static/css/main.06c2128c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hasura-tutorial/static/js/2.ec726b24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c14a6cab5a2bdb1adae1",
-    "url": "/hasura-tutorial/static/js/main.aad92ae5.chunk.js"
+    "revision": "784a5bf3f7e749d7f33e",
+    "url": "/hasura-tutorial/static/js/main.fe0af5de.chunk.js"
   },
   {
     "revision": "e04cf742af66e7b61a61",
