@@ -68,3 +68,42 @@ body {
   outline: 1px solid white;
   cursor: pointer;
 }
+
+.info {
+  background-color: whitesmoke;
+  margin: 3%;
+  padding: 30px 60px;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+
+.has {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
+
+.has:active,
+.has:focus,
+.has:hover {
+  color: blue;
+  background-color: white;
+}
+
+
+.me{
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  border: 2px solid green;
+  border-radius: 5px;
+}
+
+.me:active,
+.me:focus,
+.me:hover{
+  color: green;
+  background-color: white;
+}
