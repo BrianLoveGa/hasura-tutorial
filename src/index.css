@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Heebo:900|Open+Sans&display=swap");
 
 html,
 body {
@@ -15,9 +16,9 @@ body {
 
 .logo {
   margin-top: 0px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-family: "Pacifico", cursive;
-  font-size: 5rem;
+  font-size: 6rem;
   background: linear-gradient(
     to right,
     #ef5350,
@@ -75,6 +76,7 @@ body {
   padding: 30px 60px;
   border: 5px solid black;
   border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
 }
 
 .has {
@@ -92,8 +94,7 @@ body {
   background-color: white;
 }
 
-
-.me{
+.me {
   text-decoration: none;
   background-color: green;
   color: white;
@@ -103,7 +104,26 @@ body {
 
 .me:active,
 .me:focus,
-.me:hover{
+.me:hover {
   color: green;
+  background-color: white;
+}
+
+p {
+  font-family: "Heebo", sans-serif;
+}
+
+.ali {
+  text-decoration: none;
+  background-color: hotpink;
+  color: white;
+  border: 2px solid hotpink;
+  border-radius: 5px;
+}
+
+.ali:active,
+.ali:focus,
+.ali:hover {
+  color: hotpink;
   background-color: white;
 }

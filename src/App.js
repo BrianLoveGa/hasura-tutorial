@@ -47,7 +47,8 @@ function App() {
           Other users anywhere accessing the site can click and update a color
           at any time!
         </h2>
-        <h3>Pretty cool huh</h3>
+        <h1>Pretty cool huh?</h1>
+        <h2>Check back tomorrow to see if it has changed!</h2>
         <p>
           This is all thanks to web sockets providing a live link from this rect
           front end to a free api for each of the squares created on Heroku with
@@ -59,6 +60,15 @@ function App() {
             rel="noopener noreferrer"
           >
             HASURA FREE QUICK DEMO
+          </a>{" "}
+          And the amazing instruction skills of{" "}
+          <a
+            className="ali"
+            href="https://hasura.io/community/hasura-realtime-graphql-workshop-with-ali"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Ali Spitell
           </a>
         </p>
         <div className="space"></div>
