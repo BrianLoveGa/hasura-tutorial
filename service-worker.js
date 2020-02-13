@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hasura-tutorial/precache-manifest.fed4dbfc1bacf059535947f8afb3e0d6.js"
+  "/hasura-tutorial/precache-manifest.fa0eb5b31a682176fdd3e3086f24d083.js"
 );
 
 self.addEventListener('message', (event) => {
