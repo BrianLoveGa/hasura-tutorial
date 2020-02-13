@@ -98,5 +98,3 @@ We will also be using GraphiQL, which is an in-browser IDE for exploring GraphQL
 # Drawing App
 
 Let's set up our database for our [game]( https://quizzical-mclean-87c84c.netlify.com/) we're going to be building for the rest of the workshop.
-
-
