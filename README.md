@@ -5,6 +5,26 @@
 * Set up a Hasura server ✔
 * Create GraphQL queries and mutations ✔
 
+skip to
+*****
+
+# Finale
+
+With some type type here and add some code there and voila!
+
+We have a live up and running version too.
+
+[live site here](https://brianlovega.github.io/hasura-tutorial/)
+
+Other users anywhere accessing the site can click and update a color at any time!
+Pretty cool huh?
+Check back tomorrow to see if it has changed!
+This is all thanks to web sockets providing a live link from this rect front end to a free api for each of the squares created on Heroku with the amazing Hasura App. Give them a try at [HASURA FREE QUICK DEMO](https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html) And the amazing instruction skills of [Ali Spitell](https://hasura.io/community/hasura-realtime-graphql-workshop-with-ali)
+
+Made by Brian Loveless [Portfolio Site](https://brianlovega.github.io/portfolio-improvements/)
+
+*****
+
 # What is GraphQL
 
 Well, according to its documentation, "GraphQL is a query language for APIs." Traditionally, with a REST API, you have all sorts of endpoints where you get access to different data or can change the data in some way. That can become pretty bulky pretty fast, and can also become a bottleneck if you're working with separate frontend and backend teams. GraphQL becomes really helpful as our apps evolve over time and need to display different data.
@@ -75,19 +95,4 @@ We will also be using GraphiQL, which is an in-browser IDE for exploring GraphQL
 
 Let's set up our database for our [game]( https://quizzical-mclean-87c84c.netlify.com/) we're going to be building for the rest of the workshop.
 
-*****
 
-# Finale
-
-With some type type here and add some code there and voila!
-
-We have a live up and running version too.
-
-[live site here](https://brianlovega.github.io/hasura-tutorial/)
-
-Other users anywhere accessing the site can click and update a color at any time!
-Pretty cool huh?
-Check back tomorrow to see if it has changed!
-This is all thanks to web sockets providing a live link from this rect front end to a free api for each of the squares created on Heroku with the amazing Hasura App. Give them a try at [HASURA FREE QUICK DEMO](https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html) And the amazing instruction skills of [Ali Spitell](https://hasura.io/community/hasura-realtime-graphql-workshop-with-ali)
-
-Made by Brian Loveless [Portfolio Site](https://brianlovega.github.io/portfolio-improvements/)
