@@ -18,14 +18,17 @@ function App() {
   const [color, changeColor] = useState("white");
   if (loading) {
     return (
-      <div>loading ... just wait please it'll be drawing time soon ...</div>
+      <div>
+        loading ... just wait please it'll be drawing time soon ... this is a
+        free back end
+      </div>
     );
   } else {
     console.log(error);
   }
   return (
     <div>
-      <h1 className="top"> Live web Sockets Pixel Art _-_ BWL</h1>
+      <h1 className="top"> Live Web Sockets Pixel Art _-_ BWL</h1>
       <div className="content">
         <div className="logo">Draw</div>
         <p>Pick a Color</p>
@@ -50,25 +53,25 @@ function App() {
         <h1>Pretty cool huh?</h1>
         <h2>Check back tomorrow to see if it has changed!</h2>
         <p>
-          This is all thanks to web sockets providing a live link from this rect
-          front end to a free api for each of the squares created on Heroku with
-          the amazing Hasura App. Give them a try at{" "}
+          This is all thanks to web sockets providing a live link from this
+          React front end to a free Hasura GraphQL engine and Postgres API for
+          each of the squares hosted on Heroku. Give them a try at{" "}
           <a
             className="has"
             target="_blank"
             href="https://docs.hasura.io/1.0/graphql/manual/getting-started/heroku-simple.html"
             rel="noopener noreferrer"
           >
-            HASURA FREE QUICK DEMO
+            HASURA FREE on HEROKU
           </a>{" "}
-          And the amazing instruction skills of{" "}
+          . Big time thanks to them and the amazing instructional skills of{" "}
           <a
             className="ali"
             href="https://hasura.io/community/hasura-realtime-graphql-workshop-with-ali"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Ali Spitell
+            Ali Spittel
           </a>
         </p>
         <div className="space"></div>
