@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49bb559994bd3e01a463ec4530c6eaf4",
+    "revision": "f04d6508659e86d6564598dff96e37c4",
     "url": "/hasura-tutorial/index.html"
   },
   {
